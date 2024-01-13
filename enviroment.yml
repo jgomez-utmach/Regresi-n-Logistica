@@ -9,4 +9,5 @@ dependencies:
   - matplotlib
   - scikit-learn
   - jupyter
+  - imbalanced-learn
 prefix: /home/johnny/anaconda3/envs/regresionLogistica
